@@ -5,7 +5,7 @@ Welcome to my dashboard portfolio! Here you will find a collection of the dashbo
 Explore the dashboards below to see examples of my work:
 
  - Sales Dashboard - [Comprehensive Analysis of Retail Store Sales Performance](https://app.powerbi.com/view?r=eyJrIjoiNmMxYzM5MzUtNjBjYi00ZTEyLThjZDQtYzM0YmRmZTJhM2EzIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
-r=eyJrIjoiZWU2N2E0OWQtMjNlYS00YzgzLWFkYzctYTEyMTZjNDA3ZDYwIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9&pageName=ReportSectiona45613e62595c0a9e842)
+
 
  - [The "Soda Brands: Performance Analysis"][(https://app.powerbi.com/view?r=eyJrIjoiNmMxYzM5MzUtNjBjYi00ZTEyLThjZDQtYzM0YmRmZTJhM2EzIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)](https://app.powerbi.com/view? dashboard is constructed upon a survey encompassing questions such as "When you think of soda, what brands pop into your head?", "With what frequency do you purchase any of these brands?", "What is the main aspect of the following brands?", "Preference at each moment", "Brand Value", "Would you purchase this brand?", and "At what times of the day do you consume soda?" This dashboard meticulously evaluates the data derived from these questions to offer insights into soda brand performance.
 
