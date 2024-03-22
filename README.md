@@ -15,8 +15,7 @@ While it may not include pie charts, it employs various other visualizations suc
 
 In essence, the "Soda Brands: Performance Analysis" dashboard serves as a comprehensive tool for interpreting survey data and deriving actionable insights to enhance the performance and strategic positioning of soda brands in the market.
 
- - HR Dashboard - Analysis of human resources data, including turnover rate, absenteeism, and employee engagement.
-
+ 
 Technologies Used
 
 The dashboards were developed exclusively using Microsoft Power BI. Power BI is a powerful data visualization tool that allows for the creation of interactive dashboards and connection to various data sources.
